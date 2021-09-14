@@ -11,6 +11,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello from GitHub");
 
             Console.WriteLine("Hello from branch1");
+            Console.WriteLine("From GH");
             Console.WriteLine("From VS");
         }
     }
