@@ -17,6 +17,8 @@ namespace ConsoleApp2
             //from gh conflict
 
             //from vs conflict
+            
+            //for jenkins conflict from git
         }
     }
 }
